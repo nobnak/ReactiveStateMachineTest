@@ -1,0 +1,3 @@
+[submodule "Assets/Packages/ReactiveStateMachine"]
+	path = Assets/Packages/ReactiveStateMachine
+	url = git@github.com:nobnak/ReactiveStateMachine.git
